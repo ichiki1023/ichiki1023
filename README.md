@@ -25,14 +25,3 @@
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white&labelColor=1e293b" alt="GraphQL" />
   <img src="https://img.shields.io/badge/UX_Design-64748B?style=flat-square&logo=figma&logoColor=white&labelColor=1e293b" alt="UX Design" />
 </p>
-
-<br/>
-
-<p align="center">
-  <strong>GitHub Stats</strong>
-</p>
-
-<p align="center">
-  <img height="165" src="./assets/stats.svg" alt="GitHub stats" />
-  <img height="165" src="./assets/top-langs.svg" alt="Top languages" />
-</p>
