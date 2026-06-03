@@ -2,8 +2,8 @@
 
 Frontend Engineer · Tokyo · [ichiki.me](https://ichiki.me)
 
-Web とモバイルのフロントエンドを中心に、React / React Native を用いたプロダクト開発をしています。  
-余分をそぎ落とし、使う人にとって静かで心地よい体験を残すことを大切にしています。
+I build web and mobile products with React and React Native.  
+I focus on removing the unnecessary and leaving calm, comfortable experiences for the people who use them.
 
 ## Tech Stack
 
