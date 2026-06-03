@@ -33,6 +33,6 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ichiki1023&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e293b&title_color=94a3b8&text_color=e2e8f0&icon_color=64748b&hide_title=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichiki1023&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e293b&title_color=94a3b8&text_color=e2e8f0&langs_count=6" alt="Top languages" />
+  <img height="165" src="./assets/stats.svg" alt="GitHub stats" />
+  <img height="165" src="./assets/top-langs.svg" alt="Top languages" />
 </p>
