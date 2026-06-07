@@ -9,8 +9,8 @@ const notoSansJp = Noto_Sans_JP({
 });
 
 export const metadata: Metadata = {
-  title: "ichiki1023 App",
-  description: "アプリケーション開発用ベース",
+  title: "Speed Test Share Card",
+  description: "インターネット速度テスト結果カードのシェア用コンポーネント",
 };
 
 export default function RootLayout({
